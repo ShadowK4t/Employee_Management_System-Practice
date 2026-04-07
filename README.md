@@ -1,13 +1,7 @@
-# 101512887_COMP3123_Assignment2
-
 ## Employee Management System - Full Stack Application
 
 A full-stack web application for managing employee records, built with React, Node.js, Express, MongoDB, and Docker.
 
-## Student Information
-- **Student ID**: 101512887
-- **Course**: COMP3123 - Full Stack Development
-- **Assignment**: Assignment 2
 
 ## Tech Stack
 
@@ -50,7 +44,6 @@ A full-stack web application for managing employee records, built with React, No
 ## Project Structure
 
 ```
-101512887_comp3123_assignment/
 ├── docker-compose.yml
 ├── backend/
 │   ├── config/
@@ -102,7 +95,7 @@ A full-stack web application for managing employee records, built with React, No
 1. **Clone the repository**
    ```bash
    git clone https://github.com/ShadowK4t/101512887_comp3123_assignment2_reactjs.git
-   cd 101512887_comp3123_assignment2_reactjs
+   cd 
    ```
 
 2. **Start all services with Docker Compose**
@@ -215,4 +208,4 @@ This application can be deployed using:
 - Docker Compose (current setup)
 
 ---
-**Last Updated:** December 2025
+**Last Updated:** April 2026
